@@ -84,6 +84,11 @@ GITHUBTARBALL
     istatmenus4 (1.0.0)
 
 GITHUBTARBALL
+  remote: boxen/puppet-iterm2
+  specs:
+    iterm2 (1.0.2)
+
+GITHUBTARBALL
   remote: boxen/puppet-keyremap4macbook
   specs:
     keyremap4macbook (1.0.2)
@@ -111,12 +116,7 @@ GITHUBTARBALL
 GITHUBTARBALL
   remote: boxen/puppet-nodejs
   specs:
-    nodejs (1.1.0)
-
-GITHUBTARBALL
-  remote: boxen/puppet-nvm
-  specs:
-    nvm (1.0.0)
+    nodejs (2.1.0)
 
 GITHUBTARBALL
   remote: boxen/puppet-onepassword
@@ -199,6 +199,11 @@ GITHUBTARBALL
     inifile (0.9.0)
 
 GITHUBTARBALL
+  remote: joelhooks/puppet-processing
+  specs:
+    processing (0.0.1)
+
+GITHUBTARBALL
   remote: joelhooks/puppet-webstorm
   specs:
     webstorm (0.0.0)
@@ -227,16 +232,17 @@ DEPENDENCIES
   hub (= 1.0.0)
   inifile (= 0.9.0)
   istatmenus4 (= 1.0.0)
+  iterm2 (= 1.0.2)
   keyremap4macbook (= 1.0.2)
   kindle (= 1.0.0)
   macvim (= 1.0.0)
   mongodb (= 1.0.0)
   nginx (= 1.1.0)
-  nodejs (= 1.1.0)
-  nvm (= 1.0.0)
+  nodejs (= 2.1.0)
   onepassword (= 1.0.0)
   phantomjs (= 1.0.0)
   pow (= 1.0.0)
+  processing (= 0.0.1)
   ruby (= 3.1.0)
   skitch (= 1.0.0)
   skype (= 1.0.2)
